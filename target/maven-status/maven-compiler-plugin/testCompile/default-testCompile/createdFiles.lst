@@ -1,3 +1,4 @@
+testcases\TC_004Search.class
 pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 utilities\ExcelUtility.class

@@ -133,9 +133,13 @@ public class BaseClass {
 		return (generatedrandomstring+"@"+generatedrandomnumber);
 	}
 	
+	
+	
 	public String captureScreen(String tname) throws IOException {
-
-		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+		
+		SimpleDateFormat df=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");
+		Date dt=new Date();
+		String timeStamp=df.format(dt);
 				
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
@@ -148,6 +152,7 @@ public class BaseClass {
 		return targetFilePath;
 
 	}
+	
 
 		
 

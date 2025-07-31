@@ -1,27 +1,16 @@
-2025-07-14 09:59:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
-2025-07-14 09:59:01 INFO  Utils:112 - [TestNG] Running:
-  C:\Java Workspace\opencartv121\master.xml
-
-2025-07-14 09:59:08 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
-2025-07-14 09:59:09 INFO  TC_001AccountRegisterTest:21 - clicked on MyAccount button
-2025-07-14 09:59:10 INFO  TC_001AccountRegisterTest:36 - Validating the regestration conform page
-2025-07-14 09:59:17 INFO  TC_002LoginTest:18 -  starting login testcase
-2025-07-14 09:59:19 INFO  TC_002LoginTest:43 - exicution is finished
-2025-07-14 10:01:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
-2025-07-14 10:01:08 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
-2025-07-14 10:01:09 INFO  TC_001AccountRegisterTest:21 - clicked on MyAccount button
-2025-07-14 10:01:11 INFO  TC_001AccountRegisterTest:36 - Validating the regestration conform page
-2025-07-14 10:01:18 INFO  TC_002LoginTest:18 -  starting login testcase
-2025-07-14 10:01:19 INFO  TC_002LoginTest:43 - exicution is finished
-2025-07-14 10:20:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
-2025-07-14 10:20:36 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
-2025-07-14 10:20:36 INFO  TC_001AccountRegisterTest:21 - clicked on MyAccount button
-2025-07-14 10:20:38 INFO  TC_001AccountRegisterTest:36 - Validating the regestration conform page
-2025-07-14 10:20:45 INFO  TC_002LoginTest:18 -  starting login testcase
-2025-07-14 10:20:46 INFO  TC_002LoginTest:43 - exicution is finished
-2025-07-14 10:26:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
-2025-07-14 10:26:10 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
-2025-07-14 10:26:10 INFO  TC_001AccountRegisterTest:21 - clicked on MyAccount button
-2025-07-14 10:26:12 INFO  TC_001AccountRegisterTest:36 - Validating the regestration conform page
-2025-07-14 10:26:18 INFO  TC_002LoginTest:18 -  starting login testcase
-2025-07-14 10:26:20 INFO  TC_002LoginTest:43 - exicution is finished
+2025-07-31 18:30:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
+2025-07-31 18:30:35 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
+2025-07-31 18:30:35 INFO  TC_001AccountRegisterTest:21 - clicked on MyAccount button
+2025-07-31 18:30:37 INFO  TC_001AccountRegisterTest:36 - Validating the regestration conform page
+2025-07-31 18:30:43 INFO  TC_002LoginTest:18 -  starting login testcase
+2025-07-31 18:30:44 INFO  TC_002LoginTest:43 - exicution is finished
+2025-07-31 19:02:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
+2025-07-31 19:03:00 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
+2025-07-31 19:03:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
+2025-07-31 19:03:39 INFO  TC_002LoginTest:18 -  starting login testcase
+2025-07-31 19:10:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Java Workspace\opencartv121\master.xml"
+2025-07-31 19:11:04 INFO  TC_001AccountRegisterTest:18 - .....Starting Execution...
+2025-07-31 19:11:04 INFO  TC_001AccountRegisterTest:21 - clicked on MyAccount button
+2025-07-31 19:11:06 INFO  TC_001AccountRegisterTest:36 - Validating the regestration conform page
+2025-07-31 19:11:13 INFO  TC_002LoginTest:18 -  starting login testcase
+2025-07-31 19:11:15 INFO  TC_002LoginTest:43 - exicution is finished
